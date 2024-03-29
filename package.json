@@ -1,0 +1,24 @@
+{
+  "name": "mothflameoptimizationrmi",
+  "version": "1.0.0",
+  "description": "Moth Flame Optimization with Relative Momentum Index for market prediction",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/MothFlameOptimizationRMI.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/MothFlameOptimizationRMI/issues"
+  },
+  "homepage": "https://github.com/cdw1p/MothFlameOptimizationRMI#readme",
+  "dependencies": {
+    "ccxt": "^4.2.86",
+    "moment-timezone": "^0.5.45"
+  }
+}
